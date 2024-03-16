@@ -1,0 +1,55 @@
+{
+    "categorias": [
+    { "id": 1, "nombre": "Remera" },
+    { "id": 2, "nombre": "Pantalon" },
+    { "id": 3, "nombre": "Gorras" }
+  ],
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "REMERA CAPTAIN FIN BSH ",
+        "descripcion": "Remera de algodon de color blanca.",
+        "precio": 1430,
+        "stock": 10,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/245/791/products/5fb29cb1-7e53-4d4d-831c-611bdc5aa78e-672c4584bb6729893917101742094075-1024-1024.webp",
+        "categoria": 1
+      },
+      {
+        "id": 2,
+        "nombre": "REMERA CAPTAIN FIN OVERSIZE ",
+        "descripcion": "Remera de algodon de color negro.",
+        "precio": 1665,
+        "stock": 7,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/245/791/products/26008fb6-a23c-4c80-b90d-e4016fc94458-724666c6f48b8150ad17101737405161-1024-1024.webp",
+        "categoria": 1
+      },
+      {
+        "id": 3,
+        "nombre": "JOGGING RUSTICO ZIMITH  ",
+        "descripcion": "Joggin de algodon.",
+        "precio": 3150,
+        "stock": 3,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/245/791/products/166b1eef-895e-4b9d-9d9f-7b9c19caa799-85901b44b5b32d828b16952224264424-1024-1024.webp",
+        "categoria": 2
+      },
+      {
+        "id": 4,
+        "nombre": "PANTALON RUSTY HOOK OUT",
+        "descripcion": "Pantallon de jean color marron.",
+        "precio": 7890,
+        "stock": 4,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/245/791/products/c81e0ac5-167b-473d-ba14-4158153c8336-cc2b945251fa1cc4c216935656692707-1024-1024.webp",
+        "categoria":2
+      },
+      {
+        "id": 5,
+        "nombre": "GORRA CAPTAIN FIN CEREBRO",
+        "descripcion": "Gorra de red",
+        "precio": 1520,
+        "stock": 10,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/245/791/products/50c5cc1f-575c-4ab0-8ebd-fe7121395dbf-8521e6cafa37d5e76217068266597333-1024-1024.webp",
+        "categoria": 1
+  
+      }
+    ]
+  }
